@@ -1,0 +1,16 @@
+Enter Name: Chris Jordan Dimalanta Salamante
+
+Converted Result:
+
+Lower Case  : chris jordan dimalanta salamante
+Upper Case  : CHRIS JORDAN DIMALANTA SALAMANTE
+Format Case : Chris Jordan Dimalanta Salamante
+
+
+Chris Jordan Dimalanta Salamante
+
+if name has space
+  split string ['Chris', 'Jordan', 'Dimalanta', 'Salamante']
+  loop split string:
+        char c = string[0] //]
+        string substring = string[1...] //hris //ordan //imalanta //alamante
