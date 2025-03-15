@@ -18,7 +18,7 @@ public class Main {
         //Obese (Stage 3)  : 38 - 41.999999999999999
         //Obese (Stage 4)  : 42 - 45.999999999999999
         //Obese (Stage 5)  : 46 - 49.999999999999999
-        //Extreme Obesity  : 46 - 49.999999999999999
+        //Extreme Obesity  : >= 50
 
         return "";
     }
