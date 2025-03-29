@@ -1,0 +1,15 @@
+Employee Management System
+[1] Add Employee
+[2] View Employees
+[3] Search Employee
+[4] Update Salary
+[5] Delete Employee
+[6] Exit
+Choose An Option: 1
+
+Enter Employee ID: 2025
+Enter Name: Chris Jordan D. Salamante
+Enter Position: Manager
+Enter Salary: 50000
+
+Employee Added Successfully!
